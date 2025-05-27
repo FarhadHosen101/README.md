@@ -20,15 +20,15 @@ README
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[Muhammad Waseem](https://www.youtube.com/@MuhammadWaseem17397)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
+I'm **[Farhad Hosen](https://www.linkedin.com/in/farhad-hosen-682930296/)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: Waseem
-- **From**: Pakistan
+- **Name**: Farhad
+- **From**: Bangladesh
 - **Bug Hunter** | **Security Researcher** | **forensics Expert**
 - i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy agent.
 -**Reverse Engineering**, **Malware Analysis**
